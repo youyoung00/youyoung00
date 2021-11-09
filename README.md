@@ -14,16 +14,18 @@
 - 👯 flutter를 통해서 알게 된 개발에 큰 흥미를 느끼고 있습니다.
 - 🤔 바둑 프로젝트를 성공시키기 위하여 노력을 기울이고 있습니다.
 
+<br>
 
-Contact
+<h2>Contact</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/youyoung00)
-[![Notion](https://img.shields.io/badge/-Notion-blue?style=for-the-badge&logo=Notion&logoColor=white)](https://factual-akubra-49f.notion.site/SHIN-d3b13de8b23047bd869a7a737155a13d)
+[![Notion](https://img.shields.io/badge/-Notion-blue?style=for-the-badge&logo=Notion&logoColor=white)](https://factual-akubra-49f.notion.site/SHIN-s-Code-World-1b50a11359a545239e000dd0535933bd)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:icdi880407@gmail.com)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youyoung00)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youyoung00)](https://github.com/youyoung00)  
 
+<br>
 
 Tech Stack
 ==============
@@ -47,7 +49,6 @@ IDE / Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
 
 Version Control
 

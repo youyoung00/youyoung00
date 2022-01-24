@@ -84,7 +84,7 @@ Cloud
 Group
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](	https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
 Design
